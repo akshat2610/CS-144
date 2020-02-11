@@ -1,0 +1,1 @@
+This program reads student details from provided text file and dynamically allocates just enough memory to store the data. 
